@@ -4,4 +4,4 @@
 ![alt text](Images/Debug_Log.png)
 
 ### opdracht 6
-![alttext] (Images/Opdracht6.png)
+![alt text](Images/Opdracht6.png)
