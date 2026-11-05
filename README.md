@@ -5,3 +5,4 @@
 
 ### opdracht 6
 ![alt text](Images/Opdracht6.png)
+![alt text](Images/Opdracht6_2.png)
