@@ -12,6 +12,19 @@
 ### Link naar ScoreDisplay
 [link tekst](https://github.com/Alysha-Braafhart/M5_PROG/blob/main/Prog_M5/Assets/Scripts/ScoreDisplay.cs)
 
+## opdracht 4A
+### Introduction script
+![alt text](Images/Introductions.png)
+
+### ShipMovement script
+![alt text](Images/ShipMovement.png)
+
+### ShootLazers script
+![alt text](Images/ShootLazers.png)
+
+### Items script
+![alt text](Images/Space_48_Items1.png)
+![alt text](Images/Space_48_Items2.png)
 
 ## opdracht 6
 ### TowerUpgradeStage class
