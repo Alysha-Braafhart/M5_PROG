@@ -9,6 +9,9 @@
 ### Link naar ScoreManager
 [link tekst](https://github.com/Alysha-Braafhart/M5_PROG/blob/main/Prog_M5/Assets/Scripts/ScoreManager.cs)
 
+### Link naar ScoreDisplay
+[link tekst](https://github.com/Alysha-Braafhart/M5_PROG/blob/main/Prog_M5/Assets/Scripts/ScoreDisplay.cs)
+
 
 ## opdracht 6
 ### TowerUpgradeStage class
