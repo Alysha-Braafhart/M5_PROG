@@ -1,9 +1,13 @@
 # M5_PROG
 
-### opdracht 1.1
+## opdracht 1
 ![alt text](Images/Debug_Log.png)
 
-### opdracht 6
+### Spawn tower
+![alt text](Images/Spawn_tower.gif)
+
+
+## opdracht 6
 ![alt text](Images/Opdracht6.png)
 ![alt text](Images/Opdracht6_1.png)
 ![alt text](Images/Opdracht6_2.png)
