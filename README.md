@@ -6,6 +6,9 @@
 ### Spawn tower
 ![alt text](Images/Spawn_tower.gif)
 
+### Link naar ScoreManager
+[link tekst](https://github.com/Alysha-Braafhart/M5_PROG/blob/main/Prog_M5/Assets/Scripts/ScoreManager.cs)
+
 
 ## opdracht 6
 ### TowerUpgradeStage class
